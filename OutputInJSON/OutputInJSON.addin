@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+	<AddIn Type="Command">
+		<Assembly>"C:\Program Files\RevitAPI\OutputInJSON.dll"</Assembly>
+		<AddInId>2D0B9EDA-038C-4E90-A9EE-E5E52A005775</AddInId>
+		<FullClassName>OutputInJSON.Main</FullClassName>
+		<VendorId>ADSC</VendorId>
+		<Text>Запись в JSON</Text>	
+	</AddIn>
+</RevitAddIns>
+
